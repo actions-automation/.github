@@ -48,6 +48,6 @@ LABEL_GROUPS:
       color: fbca04
 REPOS:
   pull-request-responsibility:
-  - infrastructure
-  organization-labels:
-  - infrastructure
+    - infrastructure
+  manage-your-labels:
+    - infrastructure

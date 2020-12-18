@@ -13,4 +13,4 @@ jobs:
     name: mirror-labels
     steps:
       - uses: actions/checkout@v2
-      - uses: actions-automation/organization-labels@main
+      - uses: actions-automation/manage-your-labels@main
